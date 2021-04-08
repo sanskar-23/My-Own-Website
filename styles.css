@@ -1,0 +1,125 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  color: #40514E;
+}
+  p{
+      line-height: 2;
+  }
+  hr{
+    border: dotted black 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+h1{
+  margin-top: 100px auto 0 auto;
+  font-family: 'sacramento', cursive;
+  font-size: 562.5%;
+  color:  #66BFBF;
+  line-height: 2;
+}
+.grammer{
+  font-size: 40px;
+  color:  #66BFBF;
+  font-weight: normal;
+}
+h2{
+  font-family: 'montserrat', sans-serif;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.Skills{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.cricket{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+h3{
+  font-family: 'montserrat', sans-serif;
+  color: #11999E
+}
+.top-Container {
+   margin: 100px 0 0;
+}
+.middle-Container {
+
+}
+.bottom-container {
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.pro{
+    text-decoration: underline;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottom-cloud{
+position: absolute;
+left: 250px;
+bottom: 300px;
+}
+.contact-message
+{
+  width: 40%
+  margin: 40px auto 60px;
+}
+.BUTTON_RVC {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+    font-family: sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_RVC:hover {
+   border: solid #2BC4AD 1px;
+   background: #30E3CD;
+   background-image: -webkit-linear-gradient(top, #30E3CD, #3D94F6);
+   background-image: -moz-linear-gradient(top, #30E3CD, #3D94F6);
+   background-image: -ms-linear-gradient(top, #30E3CD, #3D94F6);
+   background-image: -o-linear-gradient(top, #30E3CD, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #30E3CD, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.footer-link{
+  margin-left: 30px;
+}
